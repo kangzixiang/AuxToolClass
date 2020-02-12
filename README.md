@@ -1,2 +1,2 @@
 # UsefulClass
-this repo share some useful class
+this repo share some useful tool class
