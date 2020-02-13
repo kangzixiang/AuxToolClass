@@ -1,7 +1,8 @@
 # AuxToolClass
   this repo share some useful tool class
 
-## usage
-- 
-- 
+## Usage
+- GlobalLog: 
+- ImageViewer:
+- Timer: 
 ## Other Pending..............
